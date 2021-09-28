@@ -35,28 +35,41 @@ Data Source:
   
    **Total Rides**
    
-    -   Urban cities have highest total rides (68.4%) 
-    -   Rural cities have lowest total rides (5.3%)
-    -   Suburban cities have moderate total rides (26.3%) 
-    -   Suburban city rides are 5x times Rural city rides
-    -   Urban city rides are 13x times Rural city rides
+   -   Urban cities have highest total rides **(68.4%)** 
+   -   Rural cities have lowest total rides **(5.3%)**
+   -   Suburban cities have moderate total rides **(26.3%)** 
+   -   Suburban city rides are 5x times Rural city rides
+   -   Urban city rides are 13x times Rural city rides
     
    **Total Drivers**
    
-    -   Urban cities have highest Driver count (80.9%) 
-    -   Rural cities have lowest total rides (2.6%)
-    -   Suburban cities have moderate total rides (16.5%) 
-    -   Suburban city rides are 6x times Rural city rides
-    -   Urban city rides are 31x times Rural city rides
+   -   Urban cities have highest Driver count **(80.9%)**
+   -   Rural cities have lowest total rides **(2.6%)**
+   -   Suburban cities have moderate total rides **(16.5%)** 
+   -   Suburban city rides are **6x** times Rural city rides
+   -   Urban city rides are **31x** times Rural city rides
    
    **Total Fare**
    
-    -   Urban cities have highest total fare (62.7%) 
-    -   Rural cities have lowest total fare (6.8%)
-    -   Suburban cities have moderate total fare (30.5%) 
-    -   Suburban city total fare is ~5x times Rural city fare
-    -   Urban city total fare is ~9x times Rural city fare
+   -   Urban cities have highest total fare **(62.7%)** 
+   -   Rural cities have lowest total fare **(6.8%)**
+   -   Suburban cities have moderate total fare **(30.5%)** 
+   -   Suburban city total fare is **~5x** times Rural city fare
+   -   Urban city total fare is **~9x** times Rural city fare
   
+   **Average Fare per Ride**
+   
+   -   Rural cities have highest average fare per ride **34.6**
+   -   Urban cities have lowest average fare per ride **24.5**
+   -   Rural average fare per ride is **~1.5x** times Urban average fare per ride
+
+
+   **Average Fare per Driver**
+   
+   -   Rural cities have highest average fare per driver **55.5**
+   -   Urban cities have lowest average fare per driver **16.6**
+   -   Rural average fare per driver is **~3x** times Urban average fare per driver
+
    
   Pyber Ridesharing multiple line chart
   
