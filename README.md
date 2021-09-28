@@ -67,7 +67,7 @@ Data Source:
    -   Urban cities have lowest average fare per ride **24.5**
    -   Rural average fare per ride is **~1.5x** times Urban average fare per ride
 
-![f](https://github.com/Sheetaltkr/PyBer_Analysis/blob/main/analysis/Fig.png) 
+  ![f](https://github.com/Sheetaltkr/PyBer_Analysis/blob/main/analysis/Fig.png) 
 
    **Average Fare per Driver**
    
