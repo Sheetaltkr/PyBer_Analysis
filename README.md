@@ -43,11 +43,11 @@ Data Source:
     
    **Total Drivers**
    
-   -   Urban cities have highest Driver count **(80.9%)**
-   -   Rural cities have lowest total rides **(2.6%)**
-   -   Suburban cities have moderate total rides **(16.5%)** 
-   -   Suburban city rides are **6x** times Rural city rides
-   -   Urban city rides are **31x** times Rural city rides
+   -   Urban cities have highest Drivers **(80.9%)**
+   -   Rural cities have lowest Drivers **(2.6%)**
+   -   Suburban cities have moderate Drivers **(16.5%)** 
+   -   Suburban city Driver count is **6x** times Rural city Driver count
+   -   Urban city Driver count is **31x** times Rural city Driver count
    
    ![d](https://github.com/Sheetaltkr/PyBer_Analysis/blob/main/analysis/Fig7.png) 
    
@@ -82,12 +82,18 @@ Data Source:
   
   Findings from Ridesharing multiple line chart:
   
+   -   Urban cities have performed well w.r.t to monthly total fare compared to Rural and Suburban as the total fare increased with time. It is highest in last week of February        and  second week of march
+   -   Rural city performance is consistent throughout except for week2 of Februray and week1 of April when it is the highest.
+   -   Suburban cities have performed best in week2 of Februrary
+   -   All city types have performed best in week2 of Februrary
+   
   Due to the fact that Urban cities are highest populated, Rural cities are lowest populated and Suburban are moderately populated 
    -   The ride share demand is highest in Urban and lowest in Rural cities
    -   Higher demand requires more drivers and higher rides, hence highest fare collections
    -   Lower demand means less no. rides, less no. drivers and hence lowest fare collections
    -   In Rural cities, due to longer distances between the ride starting and ending points and lower no. of rides the Average Fare per Ride and Average Fare per Driver is              highest.
-   -   In Urban cities, due to shorter distances between the ride starting and ending points and higher no. of rides the Average Fare per Ride and Average Fare per Driver is            lowest. 
+   -   In Urban cities, due to shorter distances between the ride starting and ending points and higher no. of rides the Average Fare per Ride and Average Fare per Driver is            lowest.
+   
 
 
   ### Business recommendations
