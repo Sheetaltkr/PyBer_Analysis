@@ -25,9 +25,7 @@ Data Source:
 
 ## Results
 
-  describe the differences in ride-sharing data among the different city types
-  
-  Pyber Ridesharing data for each city-type
+   **Pyber Ridesharing data for each city-type**
   
   ![Summary DataFrame](https://github.com/Sheetaltkr/PyBer_Analysis/blob/main/analysis/Pyber_summary_dataframe.png)
   
@@ -70,19 +68,43 @@ Data Source:
    -   Urban cities have lowest average fare per driver **16.6**
    -   Rural average fare per driver is **~3x** times Urban average fare per driver
 
-   **Summary**
-   
-   -   Due to the fact that Urban cities are highest populated, Rural cities are lowest populated and Suburban are moderately populated 
+ 
+  **Pyber Ridesharing multiple line chart**
+  
+  ![Pyber_fare_summary](https://github.com/Sheetaltkr/PyBer_Analysis/blob/main/analysis/Pyber_fare_summary.png)
+  
+  Findings from Ridesharing multiple line chart:
+  
+  
+## Summary
+
+ Due to the fact that Urban cities are highest populated, Rural cities are lowest populated and Suburban are moderately populated 
    -   The ride share demand is highest in Urban and lowest in Rural cities
    -   Higher demand requires more drivers and higher rides, hence highest fare collections
    -   Lower demand means less no. rides, less no. drivers and hence lowest fare collections
    -   In Rural cities, due to longer distances between the ride starting and ending points and lower no. of rides the Average Fare per Ride and Average Fare per Driver is              highest.
    -   In Urban cities, due to shorter distances between the ride starting and ending points and higher no. of rides the Average Fare per Ride and Average Fare per Driver is            lowest. 
 
-  Pyber Ridesharing multiple line chart
-  
-  ![Pyber_fare_summary](https://github.com/Sheetaltkr/PyBer_Analysis/blob/main/analysis/Pyber_fare_summary.png)
-  
-## Summary
 
-  Based on the results, provide three business recommendations to the CEO for addressing any disparities among the city types.
+  ### Business recommendations
+  
+   Disparity1:  %Total rides by city type and %Total fare by city type are nearly proportional while %Total drivers by city type is not
+   Proposal:  Increase Driver count in Rural cities
+        -     Targeted marketing via social media forums like facebook or Instagram for highering more PyBer drivers could help. 
+        -     Checking on app usage in underserved areas and providing joining bonus or special perks could be help.
+   Disparity2:  Average Fare per Ride is highest in Rural cities
+   Proposal:  Reducing the fare per unit distance over a certain amount of distance could help
+   
+   Disparity3:  Average Fare per Driver is lowest in Urban cities
+   Proposal:  This shows that Urban drivers are not getting enough rides to get good average fare per day. Reducing on drivers in cities might help increase average fare per               driver. Pyber could check if Urban city drivers could be moved to Rural cities if possible.
+   
+   Many other factors could play a role in above disparities and need to be checked and analyzed
+
+   -    App coverage per city types
+   -    Driver Hiring per city types
+   -    Infrastructure as per city type
+   -    Population as per city type
+   -    Weather conditions as per city type
+
+   
+   
