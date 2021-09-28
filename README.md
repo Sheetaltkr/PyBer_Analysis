@@ -20,8 +20,11 @@ Tools:
 - Jupyter Notebook 6.3
 
 Data Source:
-- city_data.csv
-- ride_data.csv
+- [city_data.csv](https://github.com/Sheetaltkr/PyBer_Analysis/blob/main/Resources/city_data.csv "city_data.csv")
+- [ride_data.csv](https://github.com/Sheetaltkr/PyBer_Analysis/blob/main/Resources/ride_data.csv "ride_data.csv")
+
+Python Program:
+- [PyBer_Challenge.ipynb](https://github.com/Sheetaltkr/PyBer_Analysis/blob/main/PyBer_Challenge.ipynb "PyBer_Challenge code")
 
 ## Results
 
