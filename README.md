@@ -39,7 +39,7 @@ Data Source:
    -   Suburban city rides are 5x times Rural city rides
    -   Urban city rides are 13x times Rural city rides
     
-    ![TotalRides%](https://github.com/Sheetaltkr/PyBer_Analysis/blob/main/analysis/Fig6.png)
+    ![](https://github.com/Sheetaltkr/PyBer_Analysis/blob/main/analysis/Fig6.png)
     
    **Total Drivers**
    
