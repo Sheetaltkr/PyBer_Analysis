@@ -39,6 +39,8 @@ Data Source:
    -   Suburban city rides are 5x times Rural city rides
    -   Urban city rides are 13x times Rural city rides
     
+    ![Total Rides%](https://github.com/Sheetaltkr/PyBer_Analysis/blob/main/analysis/Fig6.png)
+    
    **Total Drivers**
    
    -   Urban cities have highest Driver count **(80.9%)**
@@ -75,10 +77,7 @@ Data Source:
   
   Findings from Ridesharing multiple line chart:
   
-  
-## Summary
-
- Due to the fact that Urban cities are highest populated, Rural cities are lowest populated and Suburban are moderately populated 
+  Due to the fact that Urban cities are highest populated, Rural cities are lowest populated and Suburban are moderately populated 
    -   The ride share demand is highest in Urban and lowest in Rural cities
    -   Higher demand requires more drivers and higher rides, hence highest fare collections
    -   Lower demand means less no. rides, less no. drivers and hence lowest fare collections
