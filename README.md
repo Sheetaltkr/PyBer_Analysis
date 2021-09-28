@@ -39,7 +39,7 @@ Data Source:
    -   Suburban city rides are 5x times Rural city rides
    -   Urban city rides are 13x times Rural city rides
     
-    ![](https://github.com/Sheetaltkr/PyBer_Analysis/blob/main/analysis/Fig6.png)
+  ![r](https://github.com/Sheetaltkr/PyBer_Analysis/blob/main/analysis/Fig6.png) 
     
    **Total Drivers**
    
@@ -49,6 +49,8 @@ Data Source:
    -   Suburban city rides are **6x** times Rural city rides
    -   Urban city rides are **31x** times Rural city rides
    
+   ![d](https://github.com/Sheetaltkr/PyBer_Analysis/blob/main/analysis/Fig7.png) 
+   
    **Total Fare**
    
    -   Urban cities have highest total fare **(62.7%)** 
@@ -57,12 +59,15 @@ Data Source:
    -   Suburban city total fare is **~5x** times Rural city fare
    -   Urban city total fare is **~9x** times Rural city fare
   
-   **Average Fare per Ride**
+  ![f](https://github.com/Sheetaltkr/PyBer_Analysis/blob/main/analysis/Fig5.png) 
+  
+  **Average Fare per Ride**
    
    -   Rural cities have highest average fare per ride **34.6**
    -   Urban cities have lowest average fare per ride **24.5**
    -   Rural average fare per ride is **~1.5x** times Urban average fare per ride
 
+![f](https://github.com/Sheetaltkr/PyBer_Analysis/blob/main/analysis/Fig.png) 
 
    **Average Fare per Driver**
    
