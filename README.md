@@ -70,7 +70,15 @@ Data Source:
    -   Urban cities have lowest average fare per driver **16.6**
    -   Rural average fare per driver is **~3x** times Urban average fare per driver
 
+   **Summary**
    
+   -   Due to the fact that Urban cities are highest populated, Rural cities are lowest populated and Suburban are moderately populated 
+   -   The ride share demand is highest in Urban and lowest in Rural cities
+   -   Higher demand requires more drivers and higher rides, hence highest fare collections
+   -   Lower demand means less no. rides, less no. drivers and hence lowest fare collections
+   -   In Rural cities, due to longer distances between the ride starting and ending points and lower no. of rides the Average Fare per Ride and Average Fare per Driver is              highest.
+   -   In Urban cities, due to shorter distances between the ride starting and ending points and higher no. of rides the Average Fare per Ride and Average Fare per Driver is            lowest. 
+
   Pyber Ridesharing multiple line chart
   
   ![Pyber_fare_summary](https://github.com/Sheetaltkr/PyBer_Analysis/blob/main/analysis/Pyber_fare_summary.png)
