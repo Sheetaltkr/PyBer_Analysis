@@ -88,15 +88,20 @@ Data Source:
 
   ### Business recommendations
   
-   Disparity1:  %Total rides by city type and %Total fare by city type are nearly proportional while %Total drivers by city type is not
-   Proposal:  Increase Driver count in Rural cities
-        -     Targeted marketing via social media forums like facebook or Instagram for highering more PyBer drivers could help. 
-        -     Checking on app usage in underserved areas and providing joining bonus or special perks could be help.
-   Disparity2:  Average Fare per Ride is highest in Rural cities
-   Proposal:  Reducing the fare per unit distance over a certain amount of distance could help
+   1. %Total rides by city type and %Total fare by city type are nearly proportional while %Total drivers by city type is not
    
-   Disparity3:  Average Fare per Driver is lowest in Urban cities
-   Proposal:  This shows that Urban drivers are not getting enough rides to get good average fare per day. Reducing on drivers in cities might help increase average fare per               driver. Pyber could check if Urban city drivers could be moved to Rural cities if possible.
+      **Proposal**:  Increase Driver count in Rural cities
+   
+      -  Targeted marketing via social media forums like facebook or Instagram for highering more PyBer drivers could help 
+      -  Checking on app usage in underserved areas and providing joining bonus or special perks could be help
+       
+   2. Average Fare per Ride is highest in Rural cities
+   
+      **Proposal**:  Reducing the fare per unit distance over a certain amount of distance could help
+   
+   3. Average Fare per Driver is lowest in Urban cities
+   
+      **Proposal**:  This shows that Urban drivers are not getting enough rides to get good average fare per day. Reducing on drivers in cities might help increase average fare       per driver. Pyber could check if Urban city drivers could be moved to Rural cities if possible.
    
    Many other factors could play a role in above disparities and need to be checked and analyzed
 
@@ -105,6 +110,7 @@ Data Source:
    -    Infrastructure as per city type
    -    Population as per city type
    -    Weather conditions as per city type
+   -    Competitors ride share per city type
 
    
    
